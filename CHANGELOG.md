@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0](https://github.com/bouob/sysadmin-skills/compare/v0.3.1...v0.4.0) (2026-04-09)
+
+
+### Features
+
+* **sysadmin-skills:** sync updates 2026-04-09 ([#8](https://github.com/bouob/sysadmin-skills/issues/8)) ([8dc46e2](https://github.com/bouob/sysadmin-skills/commit/8dc46e201ed5c65b4cbc3fb97d6e3d92d11dfe3f))
+
 ## [0.3.1](https://github.com/bouob/sysadmin-skills/compare/v0.3.0...v0.3.1) (2026-03-27)
 
 
